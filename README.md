@@ -1,1 +1,1 @@
-The program for the calculation of payment for housing.
+Program for calculating payment for rental housing.
