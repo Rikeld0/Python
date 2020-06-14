@@ -80,7 +80,7 @@ def sum(conn, query, query1):
       a = float(input('Введите Х/В: '))
       b = float(input("Введите Г/В: "))
       c = float(input("Введите Водоотвод: "))
-      d = int(input("Укажите оплату замесяц: "))
+      d = int(input("Укажите оплату за месяц: "))
       summ = int(a + b + c + d + f)
       print ("\nСумма к оплате: ", summ)
     elif q == 4:
